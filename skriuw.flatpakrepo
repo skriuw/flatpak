@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=Skriuw
+Url=https://skriuw.github.io/flatpak/repo/
+Homepage=https://skriuw.com
+Comment=Skriuw, a quiet writing workspace
+DefaultBranch=stable
+GPGKey=mDMEakLWIBYJKwYBBAHaRw8BAQdA+HWEqKSoxEu5ECzrAapKcHxzHcJ3mdbqzj+kLvj1oGm0KlNrcml1dyBhcHQgcmVwbyA8cmVtY29zdG9ldGVuQGhvdG1haWwuY29tPoiQBBMWCgA4FiEEvMOPV4vEvNIhacTYd0LLPtT4NwIFAmpC1iACGyMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQd0LLPtT4NwIcmAEAgnXxGG4EWiVgMo+Ytqf52iZ+zlg2li0mvnIh3l8LnOgA/3R0/J6oiI5Dfl9HJUAheTc3EJkiF/TO2Vtf/QkrLkQJ
